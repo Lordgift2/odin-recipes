@@ -1,23 +1,16 @@
-h1 {font-size: 32px;
+h1 
+p {font-size: 32px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: black;}
-
-
 p
  {
     background-color: white;
     font-family: 'Times New Roman', Times, serif;
-    font-weight:bold;
-    color: black}
-button 
-    {background-color: yellow;
-    font-weight: bold;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
-    color: black;}
+    font-weight:bold;}
 div
-    {font-size:x-large;}
-        .Intro{font-size: larger; font-weight: 200; font-style: oblique;}
+    {font-size:x-large;
+    align-items: center;}
+        .Intro{font-size: 24px; font-weight: 200; font-style: oblique;}
         .suya 
             {
                 background-color: green;}
@@ -25,9 +18,7 @@ div
             {background-color: blue;}
         .chicken 
                 {background-color: red;}
-            
-        div
-                {color: white;}
-        em {color: red;}
+a{text-decoration: none; color: black;}
 img{
-    height:auto;width:600px}
+    height:auto;width: 300px;}
+em{color: red;}
