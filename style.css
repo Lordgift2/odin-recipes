@@ -1,3 +1,4 @@
+
 h1 
 p {font-size: 32px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -13,11 +14,14 @@ div
         .Intro{font-size: 24px; font-weight: 200; font-style: oblique;}
         .suya 
             {
-                background-color: green;}
+                background-color: green;
+                margin-bottom: 10px;}
         .pork
-            {background-color: blue;}
+            {background-color: blue;
+            margin-bottom: 10px;}
         .chicken 
-                {background-color: red;}
+                {background-color: red;
+                margin-bottom: 10px;}
 a{text-decoration: none; color: black;}
 img{
     height:auto;width: 300px;}
