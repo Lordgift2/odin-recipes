@@ -12,16 +12,21 @@ div
     {font-size:x-large;
     align-items: center;}
         .Intro{font-size: 24px; font-weight: 200; font-style: oblique;}
+        .suya,
+        .chicken,
+        .pork{
+            margin-bottom: 5px;
+        }
         .suya 
             {
                 background-color: green;
-                margin-bottom: 10px;}
+                }
         .pork
             {background-color: blue;
-            margin-bottom: 10px;}
+            }
         .chicken 
                 {background-color: red;
-                margin-bottom: 10px;}
+                }
 a{text-decoration: none; color: black;}
 img{
     height:auto;width: 300px;}
